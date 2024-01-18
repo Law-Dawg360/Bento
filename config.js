@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'Lawson',
+	name: 'Law-Dawg',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
